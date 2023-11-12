@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Manaf and I like to code 😋
+I am graduate from University of Saskatchewan with a bachelors degree in CS. I am always eager to learn new technologies and improve my skills in programming.
+I am currently focusing on developing my abilities in the areas of software development, web development, and data structures. You can check out my GitHub profile to see my recent projects and contributions.
+Feel free to reach out if you want to collaborate on a project or have any questions.
+* 🌍  I'm based in Canada
+* ✉️  You can contact me at monaffareed@gmail.com
+* 🧠  I'm learning React and NodeJS
 <!--
 **Manaf-Bargash/Manaf-Bargash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
